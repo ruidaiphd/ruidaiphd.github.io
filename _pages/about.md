@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: The Wharton School, University of Pennsylvania
 
 profile:
   align: right
@@ -17,8 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, I am a senior research director at <a href='https://wrds-www.wharton.upenn.edu/'> Wharton Research Data Services (WRDS)</a>. at the University of Pennsylvania and an adjunct research professor at the Chinese University of Hong Kong (Shenzhen).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During the summer, I teach a Ph.D.-level course on empirical asset pricing and an introductory course on financial data analysis to finance and data science majors. I do research for my professional interest, specifically in Machine Learning and Environmental, Social, and Governance topics. Occasionally, I provide faculty and doctoral students with training on research databases and tools.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+I created this site to expand my teaching and to house Juyterlab code. I would likely update <a href='https://www.ruidaiwrds.info/'>my Google Site </a> more often for my research papers and profile information.
